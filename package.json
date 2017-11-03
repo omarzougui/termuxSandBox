@@ -1,0 +1,11 @@
+{
+  "name": "termuxSandBox",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/omarzougui/termuxSandBox.git",
+  "author": "Omar Marzougui <omarzoughi@anypli.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
